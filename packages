@@ -1,0 +1,75 @@
+# list of packages that should be installed
+# This is a very cut down list generated from `dpkg --get-selections`
+
+# Audio / Visual
+audacity
+mpv
+pavucontrol
+vlc
+youtube-dl
+
+# Development Things
+bash
+gdb
+gron
+kcachegrind
+faketime
+make
+sqlite3
+sqlitebrowser
+valgrind
+
+## Compilers
+gcc
+musl
+
+## Editors
+nano
+vim
+
+## Version Control
+git
+mercurial
+
+## Tup
+libfuse-dev
+
+# Desktop
+i3
+i3blocks
+redshift
+xscreensaver
+
+# Games
+steam
+steamcmd
+
+# Network
+discord
+mumble
+transmission
+w3m
+
+# Performance tools
+io-top
+htop
+
+## Nvidia
+nvtop
+
+# Privacy
+age
+gnupg2
+gnupg-agent
+pass
+pinentry-curses
+pcscd
+scdaemon
+
+# Storage
+7z
+lvm2
+mdadm
+rsync
+tomb
+
