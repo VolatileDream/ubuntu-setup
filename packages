@@ -47,6 +47,8 @@ steamcmd
 # Network
 discord
 mumble
+openssh-client
+openssh-server
 transmission
 w3m
 
