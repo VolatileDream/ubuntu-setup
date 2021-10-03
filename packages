@@ -70,10 +70,16 @@ pinentry-curses
 pcscd
 scdaemon
 
+## Yubikey
+yubikey-personalization
+yubikey-personalization-gui
+yubioath-desktop
+
 # Storage
 p7zip-full
 lvm2
 mdadm
+pwgen
 rsync
 tomb
 pass-extension-tomb
