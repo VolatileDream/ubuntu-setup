@@ -17,11 +17,13 @@ faketime
 make
 sqlite3
 sqlitebrowser
+swish++
 valgrind
 
 ## Compilers
 gcc
 musl
+musl-tools
 
 ## Editors
 nano
@@ -32,7 +34,7 @@ git
 mercurial
 
 ## Tup
-libfuse-dev
+libfuse3-dev
 
 # Desktop
 i3
