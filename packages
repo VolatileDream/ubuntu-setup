@@ -36,6 +36,7 @@ git
 mercurial
 
 ## Tup
+fuse3
 libfuse3-dev
 
 # Desktop
