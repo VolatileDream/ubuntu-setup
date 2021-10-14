@@ -42,7 +42,10 @@ libfuse3-dev
 # Desktop
 i3
 i3blocks
+imagemagick
 redshift
+scrot
+xautolock
 xscreensaver
 
 # Games
