@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+cd "$(dirname "$(readlink -f "$0")")"
+
+cat packages |\
+  sed 's/#.*$//g' |\
+  sed --null-data 's/\n\n\+/\n/g' |\
+  xargs sudo apt install --assume-yes
