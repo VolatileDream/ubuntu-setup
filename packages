@@ -50,12 +50,14 @@ xautolock
 xscreensaver
 
 # Games
-steam
-steamcmd
+#steam
+#steamcmd
 
 # Network
 discord
+inetutils-traceroute
 mumble
+newsboat
 openssh-client
 openssh-server
 transmission
