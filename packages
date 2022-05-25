@@ -11,6 +11,7 @@ vlc
 youtube-dl
 
 # Development Things
+alacritty
 bash
 gdb
 gron
@@ -66,6 +67,9 @@ w3m
 # Performance tools
 iotop
 htop
+
+# Temperature
+lm-sensors
 
 ## Nvidia
 nvtop
