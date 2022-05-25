@@ -24,6 +24,7 @@ swish++
 valgrind
 
 ## Compilers
+cargo
 gcc
 musl
 musl-tools
