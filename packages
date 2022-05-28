@@ -51,6 +51,10 @@ scrot
 xautolock
 xscreensaver
 
+# Libraries for tabbed
+libx11-dev
+libxft-dev
+
 # Games
 #steam
 #steamcmd
