@@ -1,0 +1,3 @@
+# Tailscale packages for ubuntu jammy
+# https://tailscale.com/download/linux/ubuntu-2204
+deb [signed-by=/usr/share/keyrings/tailscale-archive-keyring.gpg] https://pkgs.tailscale.com/stable/ubuntu jammy main

@@ -1,0 +1,4 @@
+# https://keybase.io/docs/the_app/install_linux
+### THIS FILE IS AUTOMATICALLY CONFIGURED ###
+# You may comment out this entry, but any other modifications may be lost.
+deb http://prerelease.keybase.io/deb stable main
