@@ -42,6 +42,7 @@ fuse3
 libfuse3-dev
 
 # Desktop
+calibre
 i3
 i3blocks
 imagemagick
