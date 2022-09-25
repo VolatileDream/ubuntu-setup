@@ -1,0 +1,12 @@
+### Cargo Packages
+#
+# Things that get installed via `cargo install <name>`
+# Using these requires ~/.cargo/bin/ in $PATH
+# 
+
+# Cryptography
+rage
+age-plugin-yubikey
+
+# Software Engineering
+difftastic

@@ -91,6 +91,7 @@ pass
 pinentry-curses
 pcscd
 scdaemon
+libpcsclite-dev # to compile rust age-plugin-yubikey
 
 ## Yubikey
 yubikey-personalization
